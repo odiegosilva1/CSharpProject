@@ -1,2 +1,2 @@
 # CSharpProject
- A simpe c# project.
+ A simpe C# project return 'Hello C#'.
