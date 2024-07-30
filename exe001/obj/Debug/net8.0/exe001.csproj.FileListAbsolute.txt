@@ -1,0 +1,15 @@
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/bin/Debug/net8.0/exe001
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/bin/Debug/net8.0/exe001.deps.json
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/bin/Debug/net8.0/exe001.runtimeconfig.json
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/bin/Debug/net8.0/exe001.dll
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/bin/Debug/net8.0/exe001.pdb
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.AssemblyInfoInputs.cache
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.AssemblyInfo.cs
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.csproj.CoreCompileInputs.cache
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.sourcelink.json
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.dll
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/refint/exe001.dll
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.pdb
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/exe001.genruntimeconfig.cache
+/home/diego/Área de Trabalho/ONE-7/CSharpProject/exe001/obj/Debug/net8.0/ref/exe001.dll
